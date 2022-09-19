@@ -1,7 +1,0 @@
-A simple Budget App:
-Technologies, Libraries & Tools used:
--> Reactjs for the User Interface.
--> Bootstrap, React-Bootstrap for Styling.
--> Context API for State Management.
--> Using LocalStorage for Persisting State
--> uuid for generating Ids.
